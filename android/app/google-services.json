@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986152621065",
+    "project_id": "psjmovie-84761",
+    "storage_bucket": "psjmovie-84761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986152621065:android:f5851a3cbf457798a994d8",
+        "android_client_info": {
+          "package_name": "com.example.psj_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986152621065-1n6bkooud46estbe3bc9nsuqiunfh7ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5e03gle9N-jHC_DwrtQBmaUhOCWWEfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986152621065-1n6bkooud46estbe3bc9nsuqiunfh7ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
